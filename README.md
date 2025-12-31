@@ -1,5 +1,5 @@
 <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="WooJin's GitHub">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=WooJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="WooJin's GitHub">
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
@@ -30,6 +30,6 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃 허 브 아 이 디&show_icons=true&theme=radical)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinni&show_icons=true&theme=radical)    
 
 <br>
