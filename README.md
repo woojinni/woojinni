@@ -101,4 +101,14 @@
 
 <h2 align="center">📋 GitHub Stats 📋</h2>
 
-![woojinni's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinni&show_icons=true&theme=radical)
+<!-- Row 1 -->
+<p align="center">
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=woojinni&theme=radical&v=1"
+  />
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woojinni&theme=radical&v=1"
+  />
+</p>
