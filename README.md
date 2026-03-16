@@ -125,6 +125,17 @@ Spring Boot · MSA
 
 <hr/>
 
+<h2>📜  Certifications</h2>
+
+<ul>
+  <li>☁️ <b>AWS Certified Solutions Architect – Associate (SAA-C03)</b> – Amazon Web Services</li>
+  <li>📊 <b>빅데이터분석기사</b> – 한국데이터산업진흥원</li>
+  <li>💻 <b>정보처리기사</b> – 한국산업인력공단</li>
+  <li>🐧 <b>리눅스마스터 2급</b> – KAIT</li>
+</ul>
+
+<hr/>
+
 <!-- ===== Contact & Stats ===== -->
 <div align="center">
   <h2>📧 Email 📧</h2>
@@ -132,6 +143,8 @@ Spring Boot · MSA
 </div>
 
 <br/>
+
+<hr/>
 
 <h2 align="center">📋 GitHub Stats 📋</h2>
 
