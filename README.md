@@ -74,20 +74,54 @@
 <!-- ===== Projects ===== -->
 <h2>📂 프로젝트</h2>
 
-<ul>
-  <li>
-    <b>📌 프로젝트명</b> – 한 줄 요약<br/>
-    <sub>핵심 기술 · 설계 포인트 · 해결한 문제</sub>
-  </li>
-  <li>
-    <b>📌 프로젝트명</b> – 한 줄 요약<br/>
-    <sub>성능 개선 · 구조 설계 · 트러블슈팅 경험</sub>
-  </li>
-</ul>
+<table>
+<tr>
+<th>프로젝트</th>
+<th>설명</th>
+<th>핵심 기술</th>
+<th>링크</th>
+</tr>
 
-<p>
-  👉 각 프로젝트는 <b>설계 의도 · 문제 해결 과정 · 결과</b> 중심으로 정리하고 있습니다.
-</p>
+<tr>
+<td><b>Elastic Data Analysis Project</b></td>
+<td>
+Elastic Stack을 활용한 데이터 수집 · 분석 · 시각화 프로젝트
+</td>
+<td>
+Elasticsearch · Logstash · Kibana · 데이터 분석
+</td>
+<td>
+<a href="https://github.com/FISA-L2J/Elastic-Project">🔗 GitHub</a>
+</td>
+</tr>
+
+<tr>
+<td><b>n8n Upbit Auto Trading Pipeline</b></td>
+<td>
+n8n 워크플로우 기반 자동화된 암호화폐 트레이딩 시스템 구축
+</td>
+<td>
+n8n · Upbit API · Automation · Workflow
+</td>
+<td>
+<a href="https://github.com/woojinni/FISA_n8n_project">🔗 GitHub</a>
+</td>
+</tr>
+
+<tr>
+<td><b>Microservice Architecture Project</b></td>
+<td>
+MSA 구조 기반 서비스 분리 및 API 통신 시스템 설계
+</td>
+<td>
+Spring Boot · MSA · REST API · Microservices
+</td>
+<td>
+<a href="https://github.com/FISA-L2J/MSA-project">🔗 GitHub</a>
+</td>
+</tr>
+
+</table>
 
 <hr/>
 
