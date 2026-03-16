@@ -88,7 +88,7 @@
 Elastic Stack을 활용한 데이터 수집 · 분석 · 시각화 프로젝트
 </td>
 <td>
-Elasticsearch · Logstash · Kibana · 데이터 분석
+Elasticsearch · Logstash · Kibana 
 </td>
 <td>
 <a href="https://github.com/FISA-L2J/Elastic-Project">🔗 GitHub</a>
@@ -101,7 +101,7 @@ Elasticsearch · Logstash · Kibana · 데이터 분석
 n8n 워크플로우 기반 자동화된 암호화폐 트레이딩 시스템 구축
 </td>
 <td>
-n8n · Upbit API · Automation · Workflow
+n8n 
 </td>
 <td>
 <a href="https://github.com/woojinni/FISA_n8n_project">🔗 GitHub</a>
@@ -114,7 +114,7 @@ n8n · Upbit API · Automation · Workflow
 MSA 구조 기반 서비스 분리 및 API 통신 시스템 설계
 </td>
 <td>
-Spring Boot · MSA · REST API · Microservices
+Spring Boot · MSA 
 </td>
 <td>
 <a href="https://github.com/FISA-L2J/MSA-project">🔗 GitHub</a>
